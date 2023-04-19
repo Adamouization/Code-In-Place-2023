@@ -3,7 +3,7 @@
 As an Online Section Leader for [Code in Place](https://codeinplace.stanford.edu/) 2023, which involves virtually teaching the "CS106A: Programming Methodologies" course in Python offered by Stanford University to a section of X students, I have created this repository to share my slides and code with students.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamouization/Code-In-Place-2023/master/.github/banner.jpg?token=GHSAT0AAAAAABR3WS7GLTXS4S5PKZZ4YSYYZCAM3PA" height=250/>
+  <img src="https://i.imgur.com/JTpDdYX.jpg" height=250/>
 </p>
 
 ## What is this course? ##
