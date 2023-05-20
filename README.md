@@ -18,10 +18,10 @@ As an Online Section Leader for [Code in Place](https://codeinplace.stanford.edu
 The following topics are covered in each weekly Section:
 
 1. Python basics
-2. Karel art
+2. Art of Karel
 3. Console programming
-4. Functions
-5. Graphics
+4. Graphics
+5. Animations
 6. Lists and Dicts
 
 ## What you can find in this repository? ## 
@@ -29,7 +29,7 @@ The following topics are covered in each weekly Section:
 This repository contains:
 
 * The slides I created and presented to my section students over the 2 months.
-* My solutions in Python to the exercises for each section.
+* My solutions in Python to the exercises for each section and the solution that all the students come up with during the weekly section's problem to solve.
 
 ## License 
 * see [LICENSE](https://github.com/Adamouization/Code-In-Place-2023/blob/main/LICENSE) file.
