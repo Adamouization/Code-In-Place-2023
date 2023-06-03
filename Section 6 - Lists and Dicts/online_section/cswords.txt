@@ -1,0 +1,48 @@
+Karel
+For Loop
+While Loop
+If Statement
+Else
+Function
+Parameter
+Return Value
+CS106A
+Lists
+File Reading
+Index
+Print
+Beeper
+Main
+Input
+Turn Right
+Khansole Academy
+Diagnostic
+String
+Integer
+Float
+Boolean
+Range
+Style
+Graphics
+Constant 
+Stanford
+Code in Place
+Datascience
+Good Times
+Chris Piech
+Mehran Sahami
+Burrito
+Toaster
+Suitcase
+URL
+Teaching Team
+Section Leader
+Sections
+Scribble
+Random Circles
+Starter Code
+Python
+Bright Simons
+Variable
+For Each
+Random
